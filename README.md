@@ -1,6 +1,6 @@
 -----------------------------------0x11.C - PRINTF---------------------------------
 An ALX Group Project In C.
-By Programmer: Ahmed seid and Momodu Fred Yakubu 
+By Ahmed seid and Momodu Fred Yakubu 
 Date: 25th June , 2023.
 
 Below, were the tasks given. In other for us to solve this project, the questions and processes was divided into two parts.
