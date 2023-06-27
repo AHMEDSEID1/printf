@@ -7,7 +7,7 @@
 #define BUFF_SIZE 1024
 #define UNUSED(x)(void)(x)
 
-/* SIZES */
+/*SIZES*/
 #define S_LONG 2
 #define S_SHORT 1
 
