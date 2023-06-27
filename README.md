@@ -1,13 +1,13 @@
 -----------------------------------0x11.C - PRINTF---------------------------------
 An ALX Group Project In C.
-By Ahmed seid and Momodu Fred Yakubu 
-Date: 25th June , 2023.
+By Momodu Fred Yakubu and Ahmed Seid 
+Date: 25th June 2023.
 
-Below, were the tasks given. In other for us to solve this project, the questions and processes was divided into two parts.
-The first part was handled by (Ahmed seid) with the creation, and cloning of the repository from github, and providing 
+Below, were the tasks given. In other, for us to solve this project, the questions and processes were divided into two parts.
+The first part was handled by (Ahmed Seid) with the creation, and cloning of the repository from GitHub, and providing 
 solutions to the questions from 0 - 7.
-Secondly, my partner, Momodu Fred Yakubu git pull the repository from my github platform to attend to the remaining questions; 8 -15,
-then convert the file using gcc, before git add., commmit, and push. which then, I also git pull into my own machine, to get the 
+Secondly, my partner, Momodu Fred Yakubu git pull the repository from my GitHub platform to attend to the remaining questions; 8 -15,
+then convert the file using gcc, before git add., commit, and push. which then, I also git pull into my own machine, to get the 
 task done.
 Thank you. 
 
@@ -183,8 +183,8 @@ All the above options work well together.
 
 -----------------------------SOLUTION--------------------------------------------------
 In the repository we
-1.Created our prototype withi our header file
-2. Readme.md flie
+1. Created our prototype with our header file
+2. Readme.md file
 3. created the required file from 0-15
 
 We hoped that we are able to meet your expectation via this project.
